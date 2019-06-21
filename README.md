@@ -19,3 +19,6 @@ Can be on any server or local fs.
 Last example
 
 Sample website with plenty of files for demos
+
+### Copyright
+2019 Git.Training
